@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2024 Amadeus Samiel H. and MCP Knowledge Base Contributors
+
+Created: January 25, 2025
+Last Updated: January 26, 2025
+
+Contact: amadeus.hritani@simhop.se
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this documentation and associated files (the "Knowledge Base"), to deal
+in the Knowledge Base without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Knowledge Base, and to permit persons to whom the Knowledge Base is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Knowledge Base.
+
+IMPORTANT DISCLAIMER:
+This Knowledge Base is an independent documentation effort and is not officially 
+affiliated with, created by, or endorsed by the developers or maintainers of the 
+Model Context Protocol (MCP) or its SDKs. This documentation was created by 
+Amadeus Samiel H., who recognized the need for comprehensive technical 
+documentation for version 1.4.1 of the MCP SDK and took the initiative to create 
+this knowledge base by analyzing and documenting the SDK's features and capabilities.
+
+The MCP SDK and Protocol are properties of their respective owners. This 
+documentation is intended to serve as a supplementary resource for developers 
+working with MCP v1.4.1.
+
+THE KNOWLEDGE BASE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE KNOWLEDGE BASE OR THE USE OR OTHER DEALINGS IN THE
+KNOWLEDGE BASE.
+
+---
+<div align="center">
+<sub>
+Created and maintained by <a href="mailto:amadeus.hritani@simhop.se">Amadeus Samiel H.</a><br>
+Started: January 25, 2025 | Last Updated: January 27, 2025
+</sub>
+</div> 
