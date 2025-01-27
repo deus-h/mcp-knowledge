@@ -2,10 +2,10 @@
 
 > *"Code like there's no tomorrow, deploy like it's your last commit!"*
 >
-> 📚 [Access the Complete Knowledge Base](https://github.com/deus-h/mcp-knowledge)
+> 📚 [Access the Complete Knowledge Base](README.md)
 
 ## 🎸 Core Improvements: The Main Stage
-[View Implementation Details](https://github.com/deus-h/mcp-knowledge/blob/main/implementation/core-improvements.md)
+[View Implementation Details](1.4.1/core/architecture.md)
 
 ### 1. 🔥 Protocol Enhancements: Breaking the Sound Barrier
 - Unleash the WebSocket transport - Dual-wielding communication power! 
@@ -27,7 +27,7 @@
 - Create a playground worthy of the gods
 
 ## 💀 Technical Debt & Maintenance: The Cleanup Tour
-[View Maintenance Guide](https://github.com/deus-h/mcp-knowledge/blob/main/maintenance/README.md)
+[View Maintenance Guide](1.4.1/guides/implementation-patterns.md)
 
 ### 1. 🔨 Testing Improvements: The Headbanger's Ball
 - Benchmark till it bleeds
@@ -50,7 +50,7 @@
 - Migration guides for the worthy
 
 ## 🛡️ Security Enhancements: Fortress of Code
-[View Security Documentation](https://github.com/deus-h/mcp-knowledge/blob/main/security/README.md)
+[View Security Documentation](1.4.1/reference/protocol-spec.md#security)
 
 ### 1. 🗝️ Authentication & Authorization: The Gatekeepers
 - Auth mechanisms forged in hellfire
@@ -98,8 +98,8 @@
 - Version compatibility checking that never fails
 - Package templates born of fire
 
-## ��️ Roadmap to Glory
-[Track Progress](https://github.com/deus-h/mcp-knowledge/blob/main/roadmap/README.md)
+## 🎸 Roadmap to Glory
+[Track Progress](1.4.1/guides/advanced.md)
 
 ### Short-term (1-3 months): The Opening Act
 1. 🌩️ Unleash the WebSocket beast
@@ -126,14 +126,14 @@
 
 > *"Knowledge is power, and we've forged it into pure metal!"*
 >
-> 🏰 [Knowledge Base Home](https://github.com/deus-h/mcp-knowledge)
+> 🏰 [Knowledge Base Home](README.md)
 
 ### Mission Accomplished! 
 We've created the MCP Knowledge Base - a living document of power that captures our SDK's essence, improvements, and technical wisdom. This repository serves as the sacred ground where developers can:
-- Master the arts of MCP implementation [📚 Implementation Guides](https://github.com/deus-h/mcp-knowledge/tree/main/implementation)
-- Learn from the ancient scrolls of improvements [🔄 Improvement Tracking](https://github.com/deus-h/mcp-knowledge/tree/main/improvements)
-- Channel the power of best practices [⚡ Best Practices](https://github.com/deus-h/mcp-knowledge/tree/main/best-practices)
-- Witness the evolution of our technical prowess [📈 Technical Evolution](https://github.com/deus-h/mcp-knowledge/tree/main/evolution)
+- Master the arts of MCP implementation [📚 Implementation Guides](1.4.1/implementation)
+- Learn from the ancient scrolls of improvements [🔄 Improvement Tracking](1.4.1/improvements)
+- Channel the power of best practices [⚡ Best Practices](1.4.1/best-practices)
+- Witness the evolution of our technical prowess [📈 Technical Evolution](1.4.1/evolution)
 
 ### Knowledge Base Principles
 1. **High Standards**
@@ -177,12 +177,12 @@ We've created the MCP Knowledge Base - a living document of power that captures 
 ---
 
 # 🎸 The Implementation Chronicles: Forging the Future
-[View Full Implementation Details](https://github.com/deus-h/mcp-knowledge/tree/main/implementation)
+[View Full Implementation Details](1.4.1/guides/implementation-patterns.md)
 
 > *"Every great metal album needs a technical breakdown. Here's ours!"* 
 
 ## 🌩️ Chapter 1: The WebSocket Thunderstorm
-[WebSocket Implementation Guide](https://github.com/deus-h/mcp-knowledge/blob/main/implementation/websocket.md)
+[WebSocket Implementation Guide](1.4.1/guides/transports.md)
 
 ### The Battle Plan
 We'll forge our WebSocket transport with the might of Thor himself. Here's how we'll crush it:
@@ -446,18 +446,18 @@ describe('The Protocol Warrior', () => {
    ```
 
 ## 🎸 Final Notes: The Eternal Maintenance
-[Maintenance Guidelines](https://github.com/deus-h/mcp-knowledge/blob/main/maintenance/guidelines.md)
+[Maintenance Guidelines](1.4.1/maintenance/guidelines.md)
 
 Remember, fellow code warriors:
-1. Keep the documentation fresh like a new guitar string [📝 Documentation Guide](https://github.com/deus-h/mcp-knowledge/tree/main/documentation)
-2. Monitor performance like a sound engineer at a metal concert [📊 Performance Guide](https://github.com/deus-h/mcp-knowledge/tree/main/performance)
-3. Stay current with dependencies like keeping up with new metal releases [📦 Dependency Management](https://github.com/deus-h/mcp-knowledge/tree/main/dependencies)
-4. Test regularly like practicing your favorite riffs [🧪 Testing Guide](https://github.com/deus-h/mcp-knowledge/tree/main/testing)
-5. Optimize relentlessly like perfecting that guitar solo [⚡ Optimization Guide](https://github.com/deus-h/mcp-knowledge/tree/main/optimization)
+1. Keep the documentation fresh like a new guitar string [📝 Documentation Guide](1.4.1/documentation)
+2. Monitor performance like a sound engineer at a metal concert [📊 Performance Guide](1.4.1/performance)
+3. Stay current with dependencies like keeping up with new metal releases [📦 Dependency Management](1.4.1/dependencies)
+4. Test regularly like practicing your favorite riffs [🧪 Testing Guide](1.4.1/testing)
+5. Optimize relentlessly like perfecting that guitar solo [⚡ Optimization Guide](1.4.1/optimization)
 
 > *"The code may be complex, but like any great metal song, it's all about the composition, the power, and the execution. Now let's make this SDK legendary!"* 🤘
 
 ---
 > *"In the end, we're not just building an SDK, we're crafting a masterpiece of technical metal!"* 🎸
 >
-> 📚 [Join the Knowledge Base Journey](https://github.com/deus-h/mcp-knowledge)
+> 📚 [Join the Knowledge Base Journey](README.md)

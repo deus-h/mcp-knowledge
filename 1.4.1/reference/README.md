@@ -12,69 +12,27 @@ This section contains detailed reference documentation for the Model Context Pro
 
 ### 1. Protocol Specification
 - [Protocol Specification](protocol-spec.md)
-  - Message formats
-  - Protocol flow
-  - Error codes
-  - Extensions
+- [Basic Protocol](basic-protocol.md)
+- [Protocol Types](protocol-types.md)
 
 ### 2. API Reference
-- [Server API](server-api.md)
-  - Server class
-  - Resource management
-  - Tool registration
-  - Event handling
+- [Server API](../api/server.md)
+- [Client API](../api/client.md)
+- [Server Utilities](../api/server-utilities.md)
+- [Client Utilities](../api/client-utilities.md)
 
-- [Client API](client-api.md)
-  - Client class
-  - Connection management
-  - Resource access
-  - Tool invocation
+### 3. System Documentation
+- [Server Notifications](server-notifications.md)
+- [Prompt System](prompt-system.md)
+- [Resource System](resource-system.md)
+- [Tool System](tool-system.md)
+- [Transport System](transport-system.md)
 
-- [Transport API](transport-api.md)
-  - Transport interface
-  - stdio transport
-  - SSE transport
-  - WebSocket transport
-
-### 3. Type System
-- [Core Types](types.md)
-  - Base types
-  - Message types
-  - Resource types
-  - Tool types
-
-- [Schema Definitions](schema.md)
-  - JSON Schema
-  - Validation rules
-  - Type extensions
-  - Custom types
-
-### 4. Message Reference
-- [Request Messages](requests.md)
-  - Initialize
-  - List resources
-  - Read resource
-  - Call tool
-
-- [Response Messages](responses.md)
-  - Success responses
-  - Error responses
-  - Progress notifications
-  - Status updates
-
-### 5. Error Reference
-- [Error Codes](errors.md)
-  - Standard codes
-  - Custom codes
-  - Error handling
-  - Recovery strategies
-
-### 6. Configuration
-- [Configuration Reference](configuration.md)
-  - Server options
-  - Client options
-  - Transport options
-  - Security settings
+### 4. Additional Systems
+- [Logging System](logging-system.md)
+- [Progress System](progress-system.md)
+- [Messaging System](messaging-system.md)
+- [Lifecycle System](lifecycle-system.md)
 
 ## Document Format
 
@@ -133,9 +91,14 @@ To contribute to the reference documentation:
 
 ## Related Documentation
 
-- [Development Guides](../guides/README.md)
-- [Example Implementations](../examples/implementations.md)
-- [Core Components](../core/README.md)
-- [Best Practices](../guides/best-practices.md) 
+- [Getting Started](../guides/getting-started.md)
+- [Implementation Patterns](../guides/implementation-patterns.md)
+- [Examples](../examples/implementations.md)
 
-<sub>Created and maintained by John Smith (john.smith@example.com)</sub>
+---
+<div align="center">
+<sub>
+Created and maintained by <a href="mailto:amadeus.hritani@simhop.se">Amadeus Samiel H.</a><br>
+Started: January 25, 2025 | Last Updated: January 27, 2025
+</sub>
+</div>

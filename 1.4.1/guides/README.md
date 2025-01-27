@@ -18,69 +18,51 @@ This section contains comprehensive guides for developing with the Model Context
   - Testing and debugging
 
 ### 2. Core Development
-- [Resource Management](resources.md)
-  - Resource types
-  - URI templates
-  - Content handling
-  - Subscriptions
+- [Implementation Patterns](implementation-patterns.md)
+  - Resource patterns
+  - Tool patterns
+  - Security patterns
+  - Best practices
 
-- [Tool Development](tools.md)
-  - Tool design
-  - Input validation
-  - Error handling
-  - Progress tracking
+- [Cross-Language Development](cross-language.md)
+  - Language-specific patterns
+  - Cross-platform considerations
+  - Integration strategies
 
-- [Prompt Management](prompts.md)
-  - Prompt templates
-  - Arguments
-  - Completion
-  - Context management
-
-### 3. Integration
-- [Client Integration](client-integration.md)
-  - Client setup
-  - Connection management
-  - Resource access
-  - Tool usage
-
-- [Server Integration](server-integration.md)
-  - Server setup
-  - Capability management
-  - Transport configuration
-  - Error handling
-
-### 4. Advanced Topics
+### 3. Advanced Topics
 - [Advanced Features](advanced.md)
   - Custom capabilities
   - Protocol extensions
   - Performance optimization
   - Security considerations
 
-- [Error Handling](error-handling.md)
-  - Error types
-  - Error codes
-  - Recovery strategies
-  - Logging
+- [Transport Layer](transports.md)
+  - Transport mechanisms
+  - Connection handling
+  - Protocol implementation
 
-### 5. Best Practices
-- [Development Best Practices](best-practices.md)
-  - Code organization
-  - Testing strategies
-  - Documentation
-  - Performance
+### 4. Testing & Examples
+- [Testing Guide](testing.md)
+  - Test strategies
+  - Mocking and simulation
+  - Performance testing
+  - Integration testing
 
-- [Security Best Practices](security.md)
-  - Authentication
-  - Authorization
-  - Input validation
-  - Data protection
+- [Example Implementations](examples.md)
+  - Sample servers
+  - Common patterns
+  - Best practices
 
-### 6. Deployment
-- [Deployment Guide](deployment.md)
-  - Environment setup
-  - Configuration
-  - Monitoring
-  - Maintenance
+### 5. Special Topics
+- [URI Templating](uri-templating.md)
+  - Template syntax
+  - Pattern matching
+  - Dynamic resources
+
+- [Completable Operations](completable.md)
+  - Progress tracking
+  - Cancellation
+  - Error handling
 
 ## Guide Format
 
@@ -126,13 +108,16 @@ Please ensure your contributions:
 ## Related Documentation
 
 - [Protocol Specification](../reference/protocol-spec.md)
-- [Example Implementations](../examples/implementations.md)
-- [API Reference](../reference/api.md)
-- [Type System](../core/types.md) 
+- [Server API](../api/server.md)
+- [Client API](../api/client.md)
+- [Core Architecture](../core/architecture.md)
+- [Implementation Examples](../examples/implementations.md)
+- [Protocol Types](../reference/protocol-types.md)
 
 ---
 <div align="center">
-  <sub>Created and maintained by [Amadeus Samiel H.](mailto:amadeus.hritani@simhop.se)</sub>
-  <br>
-  <sub>Started: January 25, 2025 | Last Updated: January 27, 2025</sub>
+<sub>
+Created and maintained by <a href="mailto:amadeus.hritani@simhop.se">Amadeus Samiel H.</a><br>
+Started: January 25, 2025 | Last Updated: January 27, 2025
+</sub>
 </div>

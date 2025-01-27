@@ -83,10 +83,10 @@ src/
 
 ## Next Steps
 
-- [Core Concepts](./concepts.md)
-- [Installation Guide](./installation.md)
-- [Server Implementation](../guides/server-implementation.md)
-- [Client Usage](../guides/client-usage.md)
+- [Client Core Concepts](./client.md)
+- [Server Core Concepts](./server.md)
+- [Transport Layer](./transport.md)
+- [Type System](./types.md)
 
 ---
 <div align="center">
